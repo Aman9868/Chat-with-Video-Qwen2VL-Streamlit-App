@@ -23,7 +23,7 @@ This Streamlit app allows users to upload a video and ask questions about the co
 1. Clone The Repository
 
 ```bash
-    git clone https://github.com/your-repo/video-question-answering-app.git
+    git clone https://github.com/Aman9868/Chat-with-Video-Qwen2VL-Streamlit-App.git
 ```
 2. Create New Python Environment & Activate
 
